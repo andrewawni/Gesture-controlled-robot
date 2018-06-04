@@ -5,7 +5,7 @@ A navigating robot that is entirely controlled with hand gestures, it reads the 
 With a small button you can either:
 * Control the arm vertically and horizontally.
 * control the car to move in the four directions (Forwardm Backward, Left, Right).
-![Alt Text](https://media.giphy.com/media/3zD0he1yak6g1h57wl/giphy.gif)
+![](https://media.giphy.com/media/3zD0he1yak6g1h57wl/giphy.gif)
 
 ### Hardware:
 * 1x Arduino Uno R3
@@ -19,3 +19,7 @@ With a small button you can either:
 
 
 ### Team members: 
+* Andrew Awni
+* Ayalla Mohamed
+* Tokaa Elsayed
+* Mohamed Alaa Eldeen
