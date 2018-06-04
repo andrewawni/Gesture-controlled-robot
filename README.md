@@ -1,6 +1,6 @@
 # Gesture controlled navigating robot
 
-##Overview:
+### Overview:
 A navigating robot that is entirely controlled with hand gestures, it reads the X and Y axes reading from an accelerometer that is positioned on the user's hand and moves according to it.
 With a small button you can either:
  -Control the arm vertically and horizontally 
@@ -10,7 +10,7 @@ With a small button you can either:
 *L→ left
 *R→ Right
 
-##Hardware:
+### Hardware:
 1x Arduino Uno R3
 2x Microservo motors
 2x DC motors
